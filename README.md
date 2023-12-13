@@ -1,2 +1,2 @@
 # HI1020Final
-HI1020 Final Python Project
+Yuxuan‘s HI1020 Final Python Project（Completed individually）
